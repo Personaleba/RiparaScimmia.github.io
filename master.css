@@ -24,7 +24,7 @@ header {
     padding: 20px;
     flex-direction: column;
     width: 100%;
-    background: url('img/stars-people-couple-silhouette-wallpaper.jpg');
+    background-image: url('stars-people-couple-silhouette-wallpaper.jpg');
     background-repeat: repeat;
     background-size: contain;
     background-color: bisque;
@@ -77,7 +77,7 @@ main p {
 /* footer {
     width: 100%;
     padding: 30px;
-    background-image: url("img/sea_couple.jpg");
+    background-image: url("sea_couple.jpg");
     background-size: 28%;
     background-position: center;
     position: absolute;
