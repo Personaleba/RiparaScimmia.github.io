@@ -21,13 +21,13 @@ button {
 header {
     display: flex;
     align-items: center;
-    background-color: bisque;
     padding: 20px;
     flex-direction: column;
     width: 100%;
     background-image: url('img/stars-people-couple-silhouette-wallpaper.jpg');
     background-repeat: repeat;
     background-size: contain;
+    background-color: bisque;
 }
 
 header p {
